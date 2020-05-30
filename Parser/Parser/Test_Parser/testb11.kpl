@@ -1,0 +1,5 @@
+Program TEST11B;
+Var A: ARRAY(.10.) OF INTEGER;
+Begin
+	A(..) := 10;
+End.

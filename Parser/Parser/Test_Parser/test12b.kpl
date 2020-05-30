@@ -1,0 +1,8 @@
+Program TEST12B;
+Var N: Integer;
+Begin
+	IF N > 20 THEN
+	   N := N - 2;
+	ELSE 
+	   N := N + 2;
+END.

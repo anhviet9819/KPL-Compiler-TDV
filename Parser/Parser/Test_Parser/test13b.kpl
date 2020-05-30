@@ -1,0 +1,5 @@
+Program TEST13B;
+Var N : Integer;
+Begin 
+	FOR i := 1 to N S := S+1;
+END.
